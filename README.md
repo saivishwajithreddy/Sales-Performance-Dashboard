@@ -39,20 +39,6 @@ This project presents a Sales Performance Dashboard developed using both **Micro
 3. Sales increased from January to April, showing positive business growth.
 4. Profit increased along with sales, indicating healthy profitability.
 5. April was the best-performing month in terms of both revenue and profit.
-
-Sales-Performance-Dashboard
-│
-├── Dataset
-│   └── sales_data.xlsx
-│
-├── Excel Dashboard
-│   └── Sales_Performance_Dashboard.xlsx
-│
-├── PowerBI Dashboard
-│   └── Sales_Dashboard.pbix
-│
-├── Screenshots
-│   ├── Excel_Dashboard.png
 │   └── PowerBI_Dashboard.png
 │
 └── README.md
